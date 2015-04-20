@@ -15,7 +15,5 @@ setup(name="Eng Phys Office Space Tools",
         "Environment :: Other Environment",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT",
-      ],
-      requires=['bs4 (>=4.3.2)',
-                'requests (>=2.6.0)']),
+      ])
 

@@ -11,6 +11,9 @@ After this is done and the virtualenv is enabled, be sure to install the require
 
     python setup.py install
 
+Don't forget to install the dependencies
+
+    pip install -r requirements.txt
 
 ## parse-grad-students.py
 
